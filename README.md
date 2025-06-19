@@ -21,7 +21,7 @@ This project aimed to achieve the following analytical objectives:
 * **Providing Actionable Insights and Recommendations:** Formulating practical conclusions that can be used to optimize user experience and increase conversion rates.
 ---
 
-## 💡 Key Findings and Recommendations
+## Key Findings and Recommendations
 
 Through this analysis, several critical insights into user behavior and potential areas for business optimization have been identified:
 
@@ -46,7 +46,7 @@ This dataset is licensed under the [Creative Commons Attribution 4.0 Internation
 We would like to thank Google for making this valuable data available for educational and analytical purposes.
 ---
 
-## 📈 Visualizations (Tableau)
+## Visualizations (Tableau)
 
 This project culminates in a comprehensive and interactive dashboard, which you can explore in detail on Tableau Public:
 
@@ -57,3 +57,27 @@ Below is a static preview of the dashboard, offering a quick glimpse into the ke
 ![eCommerce User Behavior Analysis Dashboard Preview](https://github.com/user-attachments/assets/2b9e9785-89a6-4cd6-acf1-8475578993da)
 *This dashboard visualizes the sales funnel, identifies key attrition points, showcases geographical user distribution, and analyzes temporal activity patterns.*
 ---
+
+## Tools and Technologies
+
+This project leveraged the following key tools and technologies:
+
+* **SQL (Google BigQuery):** Utilized for efficient extraction, transformation, and aggregation of large-scale raw data from Google Analytics 4.
+* **Tableau Desktop / Tableau Public:** Employed for creating interactive dashboards and insightful visualizations that communicate analytical findings effectively.
+* **Git / GitHub:** Used for version control, collaborative development, and hosting the project's codebase.
+---
+
+## Project Structure
+
+The repository is organized as follows:
+├── ga4_ecommerce_session_events_extract.sql  # SQL script for data extraction and transformation in BigQuery.
+├── README.md                                 # Project overview, goals, and findings.
+└── LICENSE                                   # Details the project's licensing terms (MIT License).
+---
+
+## Contact
+
+Feel free to reach out if you have any questions, feedback, or just want to connect!
+
+* **LinkedIn:** (www.linkedin.com/in/illia-okul)
+* **Email:** (my.name.is.kep4k@gmail.com)
