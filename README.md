@@ -1,4 +1,4 @@
-# ecommerce-funnel-bigquery-tableau-analysis
+# Ecommerce Funnel Analysis
 User Behaviour Data Analysis Using SQL (BigQuery) and Visualization in Tableau
 ---
 
