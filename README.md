@@ -70,9 +70,9 @@ This project leveraged the following key tools and technologies:
 ## Project Structure
 
 The repository is organized as follows:
-├── ga4_ecommerce_session_events_extract.sql  # SQL script for data extraction and transformation in BigQuery.
+'''├── ga4_ecommerce_session_events_extract.sql  # SQL script for data extraction and transformation in BigQuery.
 ├── README.md                                 # Project overview, goals, and findings.
-└── LICENSE                                   # Details the project's licensing terms (MIT License).
+└── LICENSE                                   # Details the project's licensing terms (MIT License).'''
 ---
 
 ## Contact
