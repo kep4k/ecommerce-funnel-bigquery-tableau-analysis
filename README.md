@@ -1,12 +1,12 @@
-# Ecommerce Funnel Analysis
-User Behaviour Data Analysis Using SQL (BigQuery) and Visualization in Tableau
+# Ecommerce Funnel Analysis  
+*User Behavior Insights with Google BigQuery & Tableau*
 ---
 
 ## Project Overview
 
-This project presents a comprehensive analysis of **e-commerce user behavior data**, specifically focusing on **sales funnel construction** and identifying **user attrition points** across key product interaction stages. Leveraging **SQL in Google BigQuery**, I extracted and transformed extensive raw Google Analytics 4 data. Subsequently, I developed a series of **interactive dashboards in Tableau** to visualize key metrics and derive actionable insights.
+This project explores e-commerce user behavior, focusing on sales funnel construction and key drop-off points across major product interaction stages. Leveraging **SQL in Google BigQuery**, I extracted and transformed extensive raw Google Analytics 4 data. Subsequently, I developed a series of **interactive dashboards in Tableau** to visualize key metrics and derive actionable insights.
 
-The primary goal of this project was not only to track the user journey from initial site visit to purchase but also to delve into the factors influencing conversion and retention. 
+The primary goal of this project was not only to track the user journey from initial site visit to purchase but also to explore the factors influencing conversion and retention. 
 ---
 
 ## Analytical Goals
@@ -15,7 +15,7 @@ This project aimed to achieve the following analytical objectives:
 
 * **Sales Funnel Construction and Analysis:** Visualizing the user journey from website visit to purchase, with a focus on identifying stages with the highest user drop-off.
 * **Identification of Key User Attrition Points:** Pinpointing at which interaction stages (e.g., product view, add-to-cart, checkout initiation, purchase) users are most likely to abandon the funnel.
-* **Geographical User Analysis:** Visualizing the global distribution of users on a world map to identify regional engagement patterns.
+* **Geographical User Analysis:** Visualizing the global distribution of users on a world map to to reveal regional engagement patterns.
 * **Temporal User Activity Analysis:** Investigating website visit patterns by day of the week and weekly periods to uncover temporal trends and cycles.
 * **Marketing Campaign Contribution Assessment:** Analyzing the impact of various marketing campaigns on user acquisition and retention.
 * **Providing Actionable Insights and Recommendations:** Formulating practical conclusions that can be used to optimize user experience and increase conversion rates.
@@ -48,11 +48,11 @@ We would like to thank Google for making this valuable data available for educat
 
 ## Visualizations (Tableau)
 
-This project culminates in a comprehensive and interactive dashboard, which you can explore in detail on Tableau Public:
+This project culminates in an interactive dashboard available on Tableau Public:
 
 [**Explore the Interactive Dashboard on Tableau Public**](https://public.tableau.com/shared/G9MQD8RBQ?:display_count=n&:origin=viz_share_link)
 
-Below is a static preview of the dashboard, offering a quick glimpse into the key analyses and visualizations:
+Below is a static preview of the dashboard, providing a quick overview of the key insights and visual components:
 
 ![eCommerce User Behavior Analysis Dashboard Preview](https://github.com/user-attachments/assets/2b9e9785-89a6-4cd6-acf1-8475578993da)
 *This dashboard visualizes the sales funnel, identifies key attrition points, showcases geographical user distribution, and analyzes temporal activity patterns.*
@@ -79,7 +79,7 @@ The repository is organized as follows:
 
 ## Contact
 
-Feel free to reach out if you have any questions, feedback, or just want to connect!
+I’m always happy to connect, discuss this project in more detail, or collaborate on data-driven initiatives.
 
 * **LinkedIn:** www.linkedin.com/in/illia-okul
 * **Email:** my.name.is.kep4k@gmail.com
