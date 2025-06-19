@@ -81,5 +81,5 @@ The repository is organized as follows:
 
 Feel free to reach out if you have any questions, feedback, or just want to connect!
 
-* **LinkedIn:** (www.linkedin.com/in/illia-okul)
-* **Email:** (my.name.is.kep4k@gmail.com)
+* **LinkedIn:** www.linkedin.com/in/illia-okul
+* **Email:** my.name.is.kep4k@gmail.com
